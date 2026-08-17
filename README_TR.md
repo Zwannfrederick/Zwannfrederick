@@ -39,13 +39,6 @@ Bir model demosuyla insanlar&#305;n ger&#231;ekten g&#252;venebilece&#287;i bir 
 
 <div align="center">
 
-## Katk&#305; grafi&#287;i
-
-![Zwannfrederick katk&#305; grafi&#287;i](https://github-readme-activity-graph.vercel.app/graph?username=Zwannfrederick&theme=github-dark&hide_border=true&area=true)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zwannfrederick&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub istatistikleri">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Zwannfrederick&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub serisi">
-
 ## Diller
 
 <p>
