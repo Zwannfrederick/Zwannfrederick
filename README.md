@@ -15,27 +15,63 @@
 
 </div>
 
-## What I build
+## `$ whoami`
 
-- **AI/LLM systems:** practical architectures around local and hosted models, evaluation, orchestration and observability.
-- **ARGUS:** an evolving intelligent-systems initiative focused on perception, reasoning and real-world interaction.
-- **RAG & agents:** retrieval pipelines, tool-using workflows, memory and grounded generation.
-- **On-prem inference:** privacy-aware deployments, GPU-conscious optimization and dependable model serving.
-- **Robotics & computer vision:** perception-to-action systems that connect software intelligence with the physical world.
-- **Realtime avatars:** low-latency conversational experiences combining speech, vision and expressive digital humans.
-- **AI-native development:** using agents as active engineering collaborators across discovery, implementation, testing and iteration.
+I am a Computer Engineering student working beyond the usual student-project scope: production-oriented LLM systems, agentic workflows, local inference, computer vision and robotics. My main interest is the engineering layer between a convincing model demo and software people can actually depend on.
 
-## Engineering lens
+That means thinking about retrieval quality, latency, evaluation, failure modes, GPU limits, model serving and maintainability&#8212;not only calling a model API. I am especially interested in systems where language models must perceive context, use tools, make grounded decisions and interact with either users or the physical world.
+
+## `$ systems-focus`
+
+### LLM runtimes & on-prem inference
+
+I work with local and hosted models, privacy-conscious deployments, model serving and hardware-aware optimization. **ARGUS** is the center of my deeper systems work: exploring how storage, memory movement and runtime decisions affect practical LLM inference, with C++, CUDA and GPU behavior as active engineering territory.
+
+### RAG, agents & applied AI
+
+I design retrieval pipelines and tool-using agent workflows with grounding, memory and evaluation in mind. The goal is not an impressive one-off answer; it is a system that knows which context to retrieve, which tool to call, how to recover from failure and how to produce a result that can be inspected.
+
+### Robotics, vision & realtime interaction
+
+My work also crosses into YOLO-based training pipelines, perception-to-action systems, speech analysis and realtime avatars. I enjoy projects where AI leaves the chat window and must deal with simulation, sensors, timing, visual input or human interaction.
+
+## `$ selected-work`
+
+- **ARGUS &#8212; LLM systems research:** an evolving runtime and storage initiative focused on practical inference constraints, GPU-aware engineering and the path toward more efficient local model execution.
+- **RoboTeach &#8212; LLM-controlled robotics:** a graduation project connecting language models to simulation and policy-driven robot control, translating high-level intent into actions that can be tested before reaching hardware.
+- **Multi-tenant restaurant assistant:** a natural-language ordering service designed for multiple restaurant brands, built around a central agent node and business-specific tools rather than a single hard-coded chatbot.
+- **Realtime AI avatar:** technical mentorship for a low-latency, human-like service avatar combining conversational AI, voice, lip-sync and GPU-backed realtime delivery.
+- **Reading analysis:** a research-oriented system comparing children&#39;s spoken reading with reference audio and turning speech differences into useful analysis.
+- **Accessibility assistant:** an assistant developed for visually impaired university users; a real accessibility project that moved beyond a generic campus chatbot and received media coverage.
+- **Aerial vision pipeline:** a computer-vision workflow supporting dataset preparation, YOLO training and evaluation for an unmanned aerial vehicle use case.
+- **AI product systems:** presentation/document generation, RAG-backed content workflows and a creator assistant for ideation, scripts, thumbnails and teleprompter-style production.
+
+## `$ ai-native-development`
+
+**I build with AI, not only for AI.** My workflow is heavily agent-assisted: coding agents help with implementation, refactoring, testing, debugging and technical exploration while architecture, system design, evaluation and final engineering decisions remain human-directed.
+
+I wrote software manually before the agentic coding era. Today I prefer orchestrating agents and spending more time on system boundaries, benchmarks, integration risks and the problems that genuinely require engineering judgment. For me, AI-native development is an engineering multiplier&#8212;not a substitute for understanding the system.
+
+## `$ engineering-loop`
 
 ```text
-Build &#8594; Measure &#8594; Break &#8594; Fix &#8594; Benchmark &#8594; Ship
+Build -> Measure -> Break -> Fix -> Benchmark -> Ship
 ```
 
-I care about the layer between a model demo and a system people can actually rely on: latency, grounding, failure modes, hardware constraints, evaluation and maintainability.
+I care about evidence: inspect the output, find the failure mode, change one meaningful variable and measure again.
 
-## Core toolkit
+## `$ core-stack`
 
-`Python` &#183; `C/C++` &#183; `PyTorch` &#183; `Transformers` &#183; `vLLM` &#183; `CUDA` &#183; `OpenCV` &#183; `ROS` &#183; `FastAPI` &#183; `Docker` &#183; `Linux`
+| Area | Selected tools |
+|---|---|
+| **Primary** | Python &#183; JavaScript &#183; SQL |
+| **Systems / AI** | C &#183; C++ &#183; CUDA &#183; PyTorch &#183; Transformers &#183; vLLM |
+| **Agents / Backend** | LangGraph &#183; FastAPI &#183; PostgreSQL &#183; Redis |
+| **Vision / Robotics** | OpenCV &#183; YOLO &#183; ROS |
+| **Product / Delivery** | React &#183; Dart / Flutter &#183; Docker &#183; Linux |
+| **Also worked with** | Java &#183; Rails &#183; C# / .NET &#183; Rust |
+
+Currently going deeper into **C++, CUDA and Triton** for runtime engineering, and interested in learning **Go** when the right systems problem calls for it.
 
 <div align="center">
 
@@ -51,7 +87,7 @@ I care about the layer between a model demo and a system people can actually rel
   <img src="https://img.shields.io/badge/Deutsch-Familiar-555555?style=flat-square" alt="German &#8212; Familiar">
 </p>
 
-<sub>Curious by default. Comfortable learning a new language&#8212;or a new stack&#8212;when the problem calls for it.</sub>
+<sub>Curious by default. Comfortable picking up a new language or stack when the environment calls for it.</sub>
 
 </div>
 
