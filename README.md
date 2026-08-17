@@ -7,8 +7,8 @@
 **LLM runtimes &#183; Agents & RAG &#183; On-prem inference &#183; Robotics & CV &#183; Realtime avatars**
 
 <p>
-  <a href="./README.md"><img src="https://img.shields.io/badge/&#55356;&#56812;&#55356;&#56807;_English-1f6feb?style=for-the-badge" alt="English"></a>
-  <a href="./README_TR.md"><img src="https://img.shields.io/badge/&#55356;&#56825;&#55356;&#56823;_T&#252;rk&#231;e-e30a17?style=for-the-badge" alt="T&#252;rk&#231;e"></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/EN-English-1f6feb?style=for-the-badge" alt="English"></a>
+  <a href="./README_TR.md"><img src="https://img.shields.io/badge/TR-Turkce-e30a17?style=for-the-badge" alt="T&#252;rk&#231;e"></a>
 </p>
 
 <i>I build AI systems that move from ambitious prototypes to measurable, reliable products.</i>
@@ -43,11 +43,11 @@ I care about the layer between a model demo and a system people can actually rel
 
 <p>
   <img src="https://img.shields.io/badge/English-Advanced_C1%2FC2-1f6feb?style=for-the-badge" alt="English &#8212; Advanced C1/C2">
-  <img src="https://img.shields.io/badge/T&#252;rk&#231;e-Native-e30a17?style=for-the-badge" alt="Turkish &#8212; Native">
+  <img src="https://img.shields.io/badge/Turkce-Native-e30a17?style=for-the-badge" alt="Turkish &#8212; Native">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Espa&#241;ol-Familiar-f1c40f?style=flat-square" alt="Spanish &#8212; Familiar">
-  <img src="https://img.shields.io/badge/Fran&#231;ais-Familiar-3498db?style=flat-square" alt="French &#8212; Familiar">
+  <img src="https://img.shields.io/badge/Espanol-Familiar-f1c40f?style=flat-square" alt="Spanish &#8212; Familiar">
+  <img src="https://img.shields.io/badge/Francais-Familiar-3498db?style=flat-square" alt="French &#8212; Familiar">
   <img src="https://img.shields.io/badge/Deutsch-Familiar-555555?style=flat-square" alt="German &#8212; Familiar">
 </p>
 
