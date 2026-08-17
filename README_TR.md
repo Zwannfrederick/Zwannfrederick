@@ -1,64 +1,57 @@
 <div align="center">
 
-# Muhammed Emin Ã‡elik
+# Muhammed Emin &#199;elik
 
-### AI / LLM Sistemleri MÃ¼hendisi
+### AI / LLM Sistemleri M&#252;hendisi
 
-**LLM Ã§alÄ±ÅŸma sistemleri Â· Agent & RAG Â· Åirket iÃ§i inference Â· Robotik & CV Â· GerÃ§ek zamanlÄ± avatarlar**
+**LLM &#231;al&#305;&#351;ma sistemleri &#183; Agent & RAG &#183; &#350;irket i&#231;i inference &#183; Robotik & CV &#183; Ger&#231;ek zamanl&#305; avatarlar**
 
 <p>
-  <a href="./README.md"><img src="https://img.shields.io/badge/ğŸ‡¬ğŸ‡§_English-1f6feb?style=for-the-badge" alt="English"></a>
-  <a href="./README_TR.md"><img src="https://img.shields.io/badge/ğŸ‡¹ğŸ‡·_TÃ¼rkÃ§e-e30a17?style=for-the-badge" alt="TÃ¼rkÃ§e"></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/EN-English-1f6feb?style=for-the-badge" alt="English"></a>
+  <a href="./README_TR.md"><img src="https://img.shields.io/badge/TR-Turkce-e30a17?style=for-the-badge" alt="T&#252;rk&#231;e"></a>
 </p>
 
-<i>Ä°ddialÄ± yapay zekÃ¢ prototiplerini Ã¶lÃ§Ã¼lebilir ve gÃ¼venilir Ã¼rÃ¼nlere dÃ¶nÃ¼ÅŸtÃ¼ren sistemler geliÅŸtiriyorum.</i>
+<i>&#304;ddial&#305; yapay zek&#226; prototiplerini &#246;l&#231;&#252;lebilir ve g&#252;venilir &#252;r&#252;nlere d&#246;n&#252;&#351;t&#252;ren sistemler geli&#351;tiriyorum.</i>
 
 </div>
 
-## Neler geliÅŸtiriyorum?
+## Neler geli&#351;tiriyorum?
 
-- **AI/LLM sistemleri:** yerel ve bulut modelleri etrafÄ±nda deÄŸerlendirme, orkestrasyon ve gÃ¶zlemlenebilirlik odaklÄ± mimariler.
-- **ARGUS:** algÄ±lama, akÄ±l yÃ¼rÃ¼tme ve gerÃ§ek dÃ¼nyayla etkileÅŸime odaklanan, geliÅŸmekte olan bir akÄ±llÄ± sistemler giriÅŸimi.
-- **RAG & agent sistemleri:** bilgi getirme hatlarÄ±, araÃ§ kullanan iÅŸ akÄ±ÅŸlarÄ±, bellek ve kaynaklara dayalÄ± Ã¼retim.
-- **Åirket iÃ§i inference:** gizlilik odaklÄ± kurulumlar, GPU kaynaklarÄ±nÄ± gÃ¶zeten optimizasyon ve gÃ¼venilir model sunumu.
-- **Robotik & bilgisayarlÄ± gÃ¶rÃ¼:** yazÄ±lÄ±msal zekÃ¢yÄ± fiziksel dÃ¼nyaya baÄŸlayan algÄ±dan eyleme sistemler.
-- **GerÃ§ek zamanlÄ± avatarlar:** konuÅŸma, gÃ¶rÃ¼ntÃ¼ ve ifade yeteneklerini birleÅŸtiren dÃ¼ÅŸÃ¼k gecikmeli deneyimler.
-- **AI-native geliÅŸtirme:** agent'larÄ± keÅŸif, geliÅŸtirme, test ve iterasyon boyunca aktif mÃ¼hendislik ortaklarÄ± olarak kullanma.
+- **AI/LLM sistemleri:** yerel ve bulut modelleri etraf&#305;nda de&#287;erlendirme, orkestrasyon ve g&#246;zlemlenebilirlik odakl&#305; mimariler.
+- **ARGUS:** alg&#305;lama, ak&#305;l y&#252;r&#252;tme ve ger&#231;ek d&#252;nyayla etkile&#351;ime odaklanan, geli&#351;mekte olan bir ak&#305;ll&#305; sistemler giri&#351;imi.
+- **RAG & agent sistemleri:** bilgi getirme hatlar&#305;, ara&#231; kullanan i&#351; ak&#305;&#351;lar&#305;, bellek ve kaynaklara dayal&#305; &#252;retim.
+- **&#350;irket i&#231;i inference:** gizlilik odakl&#305; kurulumlar, GPU kaynaklar&#305;n&#305; g&#246;zeten optimizasyon ve g&#252;venilir model sunumu.
+- **Robotik & bilgisayarl&#305; g&#246;r&#252;:** yaz&#305;l&#305;msal zek&#226;y&#305; fiziksel d&#252;nyaya ba&#287;layan alg&#305;dan eyleme sistemler.
+- **Ger&#231;ek zamanl&#305; avatarlar:** konu&#351;ma, g&#246;r&#252;nt&#252; ve ifade yeteneklerini birle&#351;tiren d&#252;&#351;&#252;k gecikmeli deneyimler.
+- **AI-native geli&#351;tirme:** agent'lar&#305; ke&#351;if, geli&#351;tirme, test ve iterasyon boyunca aktif m&#252;hendislik ortaklar&#305; olarak kullanma.
 
-## MÃ¼hendislik yaklaÅŸÄ±mÄ±m
+## M&#252;hendislik yakla&#351;&#305;m&#305;m
 
 ```text
-GeliÅŸtir â†’ Ã–lÃ§ â†’ KÄ±r â†’ DÃ¼zelt â†’ KÄ±yasla â†’ YayÄ±nla
+Geli&#351;tir &#8594; &#214;l&#231; &#8594; K&#305;r &#8594; D&#252;zelt &#8594; K&#305;yasla &#8594; Yay&#305;nla
 ```
 
-Bir model demosuyla insanlarÄ±n gerÃ§ekten gÃ¼venebileceÄŸi bir sistem arasÄ±ndaki katmana odaklanÄ±yorum: gecikme, doÄŸrulanabilirlik, hata biÃ§imleri, donanÄ±m sÄ±nÄ±rlarÄ±, deÄŸerlendirme ve sÃ¼rdÃ¼rÃ¼lebilirlik.
+Bir model demosuyla insanlar&#305;n ger&#231;ekten g&#252;venebilece&#287;i bir sistem aras&#305;ndaki katmana odaklan&#305;yorum: gecikme, do&#287;rulanabilirlik, hata bi&#231;imleri, donan&#305;m s&#305;n&#305;rlar&#305;, de&#287;erlendirme ve s&#252;rd&#252;r&#252;lebilirlik.
 
-## Temel araÃ§ seti
+## Temel ara&#231; seti
 
-`Python` Â· `C/C++` Â· `PyTorch` Â· `Transformers` Â· `vLLM` Â· `CUDA` Â· `OpenCV` Â· `ROS` Â· `FastAPI` Â· `Docker` Â· `Linux`
+`Python` &#183; `C/C++` &#183; `PyTorch` &#183; `Transformers` &#183; `vLLM` &#183; `CUDA` &#183; `OpenCV` &#183; `ROS` &#183; `FastAPI` &#183; `Docker` &#183; `Linux`
 
 <div align="center">
-
-## KatkÄ± grafiÄŸi
-
-![Zwannfrederick katkÄ± grafiÄŸi](https://github-readme-activity-graph.vercel.app/graph?username=Zwannfrederick&theme=github-dark&hide_border=true&area=true)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zwannfrederick&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub istatistikleri">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Zwannfrederick&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub serisi">
 
 ## Diller
 
 <p>
-  <img src="https://img.shields.io/badge/English-Advanced_C1%2FC2-1f6feb?style=for-the-badge" alt="Ä°ngilizce â€” Ä°leri C1/C2">
-  <img src="https://img.shields.io/badge/TÃ¼rkÃ§e-Ana_Dil-e30a17?style=for-the-badge" alt="TÃ¼rkÃ§e â€” Ana dil">
+  <img src="https://img.shields.io/badge/English-Advanced_C1%2FC2-1f6feb?style=for-the-badge" alt="&#304;ngilizce &#8212; &#304;leri C1/C2">
+  <img src="https://img.shields.io/badge/Turkce-Ana_Dil-e30a17?style=for-the-badge" alt="T&#252;rk&#231;e &#8212; Ana dil">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/EspaÃ±ol-AÅŸinalÄ±k-f1c40f?style=flat-square" alt="Ä°spanyolca â€” AÅŸinalÄ±k">
-  <img src="https://img.shields.io/badge/FranÃ§ais-AÅŸinalÄ±k-3498db?style=flat-square" alt="FransÄ±zca â€” AÅŸinalÄ±k">
-  <img src="https://img.shields.io/badge/Deutsch-AÅŸinalÄ±k-555555?style=flat-square" alt="Almanca â€” AÅŸinalÄ±k">
+  <img src="https://img.shields.io/badge/Espanol-Asinalik-f1c40f?style=flat-square" alt="&#304;spanyolca &#8212; A&#351;inal&#305;k">
+  <img src="https://img.shields.io/badge/Francais-Asinalik-3498db?style=flat-square" alt="Frans&#305;zca &#8212; A&#351;inal&#305;k">
+  <img src="https://img.shields.io/badge/Deutsch-Asinalik-555555?style=flat-square" alt="Almanca &#8212; A&#351;inal&#305;k">
 </p>
 
-<sub>Merak varsayÄ±lan ayarÄ±m. Problem gerektirdiÄŸinde yeni bir dil veya teknoloji Ã¶ÄŸrenmekten Ã§ekinmem.</sub>
+<sub>Merak varsay&#305;lan ayar&#305;m. Problem gerektirdi&#287;inde yeni bir dil veya teknoloji &#246;&#287;renmekten &#231;ekinmem.</sub>
 
 </div>
 
