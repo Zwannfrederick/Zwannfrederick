@@ -39,13 +39,6 @@ I care about the layer between a model demo and a system people can actually rel
 
 <div align="center">
 
-## Contribution graph
-
-![Zwannfrederick's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Zwannfrederick&theme=github-dark&hide_border=true&area=true)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zwannfrederick&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Zwannfrederick&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub streak">
-
 ## Languages
 
 <p>
