@@ -7,8 +7,8 @@
 **LLM &#231;al&#305;&#351;ma sistemleri &#183; Agent & RAG &#183; &#350;irket i&#231;i inference &#183; Robotik & CV &#183; Ger&#231;ek zamanl&#305; avatarlar**
 
 <p>
-  <a href="./README.md"><img src="https://img.shields.io/badge/&#55356;&#56812;&#55356;&#56807;_English-1f6feb?style=for-the-badge" alt="English"></a>
-  <a href="./README_TR.md"><img src="https://img.shields.io/badge/&#55356;&#56825;&#55356;&#56823;_T&#252;rk&#231;e-e30a17?style=for-the-badge" alt="T&#252;rk&#231;e"></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/EN-English-1f6feb?style=for-the-badge" alt="English"></a>
+  <a href="./README_TR.md"><img src="https://img.shields.io/badge/TR-Turkce-e30a17?style=for-the-badge" alt="T&#252;rk&#231;e"></a>
 </p>
 
 <i>&#304;ddial&#305; yapay zek&#226; prototiplerini &#246;l&#231;&#252;lebilir ve g&#252;venilir &#252;r&#252;nlere d&#246;n&#252;&#351;t&#252;ren sistemler geli&#351;tiriyorum.</i>
@@ -43,12 +43,12 @@ Bir model demosuyla insanlar&#305;n ger&#231;ekten g&#252;venebilece&#287;i bir 
 
 <p>
   <img src="https://img.shields.io/badge/English-Advanced_C1%2FC2-1f6feb?style=for-the-badge" alt="&#304;ngilizce &#8212; &#304;leri C1/C2">
-  <img src="https://img.shields.io/badge/T&#252;rk&#231;e-Ana_Dil-e30a17?style=for-the-badge" alt="T&#252;rk&#231;e &#8212; Ana dil">
+  <img src="https://img.shields.io/badge/Turkce-Ana_Dil-e30a17?style=for-the-badge" alt="T&#252;rk&#231;e &#8212; Ana dil">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Espa&#241;ol-A&#351;inal&#305;k-f1c40f?style=flat-square" alt="&#304;spanyolca &#8212; A&#351;inal&#305;k">
-  <img src="https://img.shields.io/badge/Fran&#231;ais-A&#351;inal&#305;k-3498db?style=flat-square" alt="Frans&#305;zca &#8212; A&#351;inal&#305;k">
-  <img src="https://img.shields.io/badge/Deutsch-A&#351;inal&#305;k-555555?style=flat-square" alt="Almanca &#8212; A&#351;inal&#305;k">
+  <img src="https://img.shields.io/badge/Espanol-Asinalik-f1c40f?style=flat-square" alt="&#304;spanyolca &#8212; A&#351;inal&#305;k">
+  <img src="https://img.shields.io/badge/Francais-Asinalik-3498db?style=flat-square" alt="Frans&#305;zca &#8212; A&#351;inal&#305;k">
+  <img src="https://img.shields.io/badge/Deutsch-Asinalik-555555?style=flat-square" alt="Almanca &#8212; A&#351;inal&#305;k">
 </p>
 
 <sub>Merak varsay&#305;lan ayar&#305;m. Problem gerektirdi&#287;inde yeni bir dil veya teknoloji &#246;&#287;renmekten &#231;ekinmem.</sub>
